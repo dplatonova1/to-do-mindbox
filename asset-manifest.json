@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/to-do-mindbox/static/css/main.94ca430a.css",
+    "main.js": "/to-do-mindbox/static/js/main.bdd5564a.js",
+    "index.html": "/to-do-mindbox/index.html",
+    "main.94ca430a.css.map": "/to-do-mindbox/static/css/main.94ca430a.css.map",
+    "main.bdd5564a.js.map": "/to-do-mindbox/static/js/main.bdd5564a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ca430a.css",
+    "static/js/main.bdd5564a.js"
+  ]
+}
